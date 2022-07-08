@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "css",
+    "emmet.triggerExpansionOnTab": true,
+"files.associations": {"*html":"html"},
+"ri:t|ri:type": "pic>src:t+img",
+
+    "!!!": "{<!DOCTYPE html>}",
+}

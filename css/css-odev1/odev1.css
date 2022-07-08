@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-size: 48px;
+   
+}
+h2{
+    color: blueviolet;
+}
+
+.center{
+    text-align: center;
+}
+h3{
+    color: darkgoldenrod;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
