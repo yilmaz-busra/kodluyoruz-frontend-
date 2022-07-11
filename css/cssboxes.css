@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: rgb(211, 205, 199);
+    border-radius: 10px;
+}
+.container{
+    margin-top: 50px ;
+width: 1000px;
+/* margin-left:auto ;
+margin-right: auto;  sayfayı ortaladı*/
+/* margin: 0 auto 0 auto;  sayfayı ortaladı kısa yazımı alttaki kod*/
+margin: 50px auto;
+}
+.clear{
+    clear: both;
+}
+.left-bar{
+    width: 200px;
+    float: left;
+}
+
+.content{
+   width: 800px; 
+   float: left;
+   
+}
+.box{
+    background-color: red;
+    width:300px;
+    height: 300px;
+    padding: 10px;
+    /* margin: 25px;
+     margin-top: 10px;  
+      margin-bottom: 25px;   */
+      /* margin-right: 10px;
+      margin-left: 10px; */
+      /* margin-top: 10px; */
+       margin-bottom: 10px;
+       margin-right: 10px; 
+       float: left;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color:green;
+}
+.bg-yellow{
+ background-color: yellow;
+}
+
+.gradient{
+    background: linear-gradient(90deg, rgba(45,156,29,.6), rgba(155,81,224,.6));
+
+}
+
+.btn{
+    padding: 10px 20px; /*kutu içindeki kutuya içerde boşluk bırakıyor*/
+    border-radius:25px; /* kareyi yuvarlak hat verir*/
+    color: white ;
+    text-decoration: none; /* altındaki çizgiyi siler*/
+}
+
+

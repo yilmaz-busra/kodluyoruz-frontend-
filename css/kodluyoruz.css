@@ -2,6 +2,38 @@
 
 /* class -> .text-red{} */
 /* id -> #id-bilgisi{} */
+/* css selectors */
+
+/*.color-blue.fw-normal{ burada iki özellik aynı anda olmalı
+  color: blue;
+  font-weight: normal;
+}  */
+
+/* li:first-child{
+  color: green;
+
+}
+
+li:last-child{
+  color: blueviolet;
+} */
+
+/* li:nth-child(odd){
+  color: brown;
+}
+li:nth-child(odd){
+  color: aqua;
+} */
+
+li:nth-child(2n-1){
+  color: red;
+}
+
+
+.color-blue .fw-normal{ 
+  color: blue;
+  font-weight: normal;
+}
 
 
 h1, h2,h3,h4,h5,h6{
