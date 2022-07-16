@@ -16,4 +16,4 @@
 >o(n^2)
 
 **4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.**
->Avarage -> 2,6,16,18,22,27
+>Avarage -> 2,6,16,18,22,27 
